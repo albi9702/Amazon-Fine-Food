@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Immagini/Logo-Bicocca.png"/>
+<img src="https://github.com/albi9702/Kobe-Vs-Machine-Learning/blob/master/Immagini/Logo-Bicocca.png"/>
 </p>
 
 # Amazon Fine Food
@@ -29,7 +29,7 @@ Per l'analisi sono state considerate solamente le variabili Rating e Text. La va
     - Magistrale: Data Science | Università degli Studi di Milano-Bicocca;
 
 <center>
-  <a href = "https://www.linkedin.com/in/gabriele-carrara-968310198/"><img src="Immagini/linkedin.png" width = "2%"></a>
+  <a href = "https://www.linkedin.com/in/gabriele-carrara-968310198/"><img src="https://github.com/albi9702/Kobe-Vs-Machine-Learning/blob/master/Immagini/linkedin.png" width = "2%"></a>
 </center>
 
 - Alberto Filosa:
@@ -37,9 +37,9 @@ Per l'analisi sono state considerate solamente le variabili Rating e Text. La va
     - Magistrale: Data Science | Università degli Studi di Milano-Bicocca;
 
 <center>
-  <a href = "https://www.linkedin.com/in/alberto-filosa-31408/"><img src="Immagini/linkedin.png" width = "2%"></a>
-  <a href = "https://www.kaggle.com/albi9702"><img src="Immagini/kaggle.jpg" width = "2%"></a>
-  <a href = "https://github.com/albi9702"><img src="Immagini/github.png" width = "2%"></a>
+  <a href = "https://www.linkedin.com/in/alberto-filosa-31408/"><img src="https://github.com/albi9702/Kobe-Vs-Machine-Learning/blob/master/Immagini/linkedin.png" width = "2%"></a>
+  <a href = "https://www.kaggle.com/albi9702"><img src="https://github.com/albi9702/Kobe-Vs-Machine-Learning/blob/master/Immagini/kaggle.jpg" width = "2%"></a>
+  <a href = "https://github.com/albi9702"><img src="https://github.com/albi9702/Kobe-Vs-Machine-Learning/blob/master/Immagini/github.png" width = "2%"></a>
 </center>
 
 * Simone Tufano:
@@ -47,5 +47,5 @@ Per l'analisi sono state considerate solamente le variabili Rating e Text. La va
     - Magistrale: Data Science | Università degli Studi di Milano-Bicocca;
 
 <center>
-<a href = "https://it.linkedin.com/public-profile/in/simone-tufano-957763162"><img src="Immagini/linkedin.png" width = "2%"></a>
+<a href = "https://it.linkedin.com/public-profile/in/simone-tufano-957763162"><img src="https://github.com/albi9702/Kobe-Vs-Machine-Learning/blob/master/Immagini/linkedin.png" width = "2%"></a>
 </center>
